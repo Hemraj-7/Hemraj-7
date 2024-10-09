@@ -61,12 +61,6 @@
 -->
 </div><br>
 
-# 🏆 Trophies
-
-<div align="center">
-<img src="https://github-trophies.vercel.app/?username=Asymtode712&theme=dracula&no-frame=false&no-bg=false&margin-w=4">
-</div>
-
 # 🎖 Badges
 
 ### GSSoC'24 Badges
