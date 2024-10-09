@@ -18,7 +18,7 @@
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning next.js
 - 👯 I’m looking to collaborate with open source enthusiasts
-- 🥅 2024 Goals: Learn DevOps and Nextjs
+- 🥅 2024 Goals: Learn Reactjs and Nextjs
 
 <br>
 
