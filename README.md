@@ -78,7 +78,7 @@
 <details>
   <summary><b> HoloPin Badges </b></summary>
   
-[![An image of @hemraj_7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hemraj_7)](https://holopin.io/@hemraj_7)
+(https://holopin.me/hemraj_7)](https://holopin.io/@hemraj_7)
 
 </details><br/>
 
