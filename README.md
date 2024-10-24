@@ -33,6 +33,45 @@
 
 <br><br>
 
+<div align="center">
+<h2 align='center'><i>Languages, Tools and Technologies 🚀 </i></h2>
+<table>
+	<tr>
+		<td><strong>Programming Languages</strong></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=cpp,c,java,python,js&theme=dark"></td>
+	</tr>
+	<tr>
+		<td><strong>Database Technologies</strong></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=mongodb&theme=dark"></td>
+	</tr>
+	<tr>
+		<td><strong>Frontend Development</strong></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark"></td>
+	</tr>
+	<tr>
+		<td><strong>Backend Development</strong></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=nodejs&theme=dark"></td>
+	</tr>
+	<tr>
+		<td><strong>Frameworks and Libraries</strong></td>
+		<td>
+			<img height=40 src="https://skillicons.dev/icons?i=react&theme=dark">
+		</td>
+	</tr>
+	<tr>
+		<td><strong>Developer Tools</strong></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"></td>
+	</tr>
+	<tr>
+		<td><strong>Operating Systems</strong></td>
+		<td>
+			<!-- <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> -->
+			<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+		</td>
+	</tr>
+</table>
+</div>
+
 
 ### </>💻 Languages & Tools :
 <p align="center">
