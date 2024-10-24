@@ -104,7 +104,7 @@
   <img src="./assets/77.png" width="120px" height="120px" />
   <img src="./assets/88.png" width="120px" height="120px" /> -->
 </div>
-<br><br>
+<br>
 
 ### HoloPin Badges
   <a href="https://holopin.io/@hemraj_7"><img src="https://holopin.me/hemraj_7" /></a>
