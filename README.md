@@ -38,15 +38,15 @@
 <table>
 	<tr>
 		<td><strong>Programming Languages</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=cpp,c,java,python,js&theme=dark"></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=c,cpp,java,js&theme=dark"></td>
 	</tr>
-	<tr>
+	<tr height="60px" width="500px">
 		<td><strong>Database Technologies</strong></td>
 		<td><img height=40 src="https://skillicons.dev/icons?i=mongodb&theme=dark"></td>
 	</tr>
 	<tr>
 		<td><strong>Frontend Development</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark"></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=dark"></td>
 	</tr>
 	<tr>
 		<td><strong>Backend Development</strong></td>
@@ -55,7 +55,7 @@
 	<tr>
 		<td><strong>Frameworks and Libraries</strong></td>
 		<td>
-			<img height=40 src="https://skillicons.dev/icons?i=react&theme=dark">
+			<img height=40 src="https://skillicons.dev/icons?i=react,nextjs&theme=dark">
 		</td>
 	</tr>
 	<tr>
@@ -72,13 +72,6 @@
 </table>
 </div>
 
-
-### </>💻 Languages & Tools :
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,js,bootstrap,css,html,postman,npm,git,github,vercel,replit,idea&perline=8" />
-  </a>
-</p>
 </br></br>
 
 ### 📊 GitHub Stats:
