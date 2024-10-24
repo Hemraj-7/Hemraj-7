@@ -62,15 +62,15 @@
 ### GSSoC'24 Badges
 
 <div style='display:flex; align-items:center; gap: 5px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="./assets/postman.png" width="120px" height="120px" />
-  <img src="./assets/11.png" width="120px" height="120px" />
-  <img src="./assets/22.png" width="120px" height="120px" />
-  <img src="./assets/33.png" width="120px" height="120px" />
-  <img src="./assets/44.png" width="120px" height="120px" />
-  <img src="./assets/55.png" width="120px" height="120px" />
-  <img src="./assets/66.png" width="120px" height="120px" />
+<img src="./assets/postman.png" width="115px" height="115px" />
+  <img src="./assets/1.png" width="120px" height="120px" />
+  <img src="./assets/2.png" width="120px" height="120px" />
+  <img src="./assets/3.png" width="120px" height="120px" />
+  <img src="./assets/4.png" width="115px" height="115px" />
+  <img src="./assets/5.png" width="120px" height="120px" />
+  <!-- <img src="./assets/66.png" width="120px" height="120px" />
   <img src="./assets/77.png" width="120px" height="120px" />
-  <img src="./assets/88.png" width="120px" height="120px" />
+  <img src="./assets/88.png" width="120px" height="120px" /> -->
 </div>
 <br>
 <details>
