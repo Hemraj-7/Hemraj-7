@@ -57,7 +57,7 @@
 </div>
 <br>
 
-# 🎖 Badges
+## 🎖 Badges
 
 ### GSSoC'24 Badges
 
@@ -70,6 +70,7 @@
   <img src="./assets/5.png" width="85px" height="85px" />
   <img src="./assets/6.png" width="85px" height="85px" />
   <img src="./assets/7.png" width="85px" height="85px" />
+  <img src="./assets/8.png" width="85px" height="85px" />
 </div>
 <br>
 <details>
