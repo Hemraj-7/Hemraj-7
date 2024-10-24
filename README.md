@@ -104,13 +104,12 @@
   <img src="./assets/77.png" width="120px" height="120px" />
   <img src="./assets/88.png" width="120px" height="120px" /> -->
 </div>
-<br>
-<details>
-  <summary><b> HoloPin Badges </b></summary>
-  
-[![An image of @hemraj_7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hemraj_7)](https://holopin.io/@hemraj_7)
+<br><br>
 
-</details><br/>
+### HoloPin Badges
+  <a href="https://holopin.io/@hemraj_7"><img src="https://holopin.me/hemraj_7" /></a>
+<!-- [![An image of @hemraj_7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hemraj_7)](https://holopin.io/@hemraj_7) -->
+<br/><br/>
 
 <hr>
 
