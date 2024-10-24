@@ -21,36 +21,32 @@
 
 <br>
 
-## 🌐 Socials:
+### 🌐 Socials:
 
 <div align="center">
-
+<a href="mailto:ayushdeb848@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://instagram.com/hemraj__parihar/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/hem-raj-862624202/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 
 </div>
 
-<br>
+<br><br>
 
 
-## 💻 Tech Stack:
+### </>💻 Languages & Tools :
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,js,bootstrap,css,html,postman,npm,git,github,vercel,replit,idea&perline=8" />
+  </a>
+</p>
+</br></br>
 
-<div align="center">
-
-<a href="#" target="_blank">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,nodejs,express,angular,jquery,materialui,tailwind,redux,ts,vite,php,mongodb,mysql,threejs,django,next,postman,cpp,java,aws,ruby,heroku,vercel,netlify,firebase,git,bash,linux&perline=11" />
-</a>
-
-</div>
-
-<br>
-
-## 📊 GitHub Stats:
+### 📊 GitHub Stats:
 
 <div align="center">
 <!--
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asymtode712&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hemraj-7&theme=radical">
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Asymtode712&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Asymtode712&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Asymtode712&theme=radical">
