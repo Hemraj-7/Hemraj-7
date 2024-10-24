@@ -40,7 +40,7 @@
 		<td><strong>Programming Languages</strong></td>
 		<td><img height=40 src="https://skillicons.dev/icons?i=c,cpp,java,js&theme=dark"></td>
 	</tr>
-	<tr height="60px" width="500px">
+	<tr height="60px" width="700px">
 		<td><strong>Database Technologies</strong></td>
 		<td><img height=40 src="https://skillicons.dev/icons?i=mongodb&theme=dark"></td>
 	</tr>
