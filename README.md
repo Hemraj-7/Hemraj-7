@@ -14,7 +14,7 @@
 
 ### 💫 About Me
 
-- 🎓 I'm a Student and Web Developer
+- 🎓 I'm a Student at Osmania University
 - 🌱 I’m currently learning next.js
 - 👯 I’m looking to collaborate with open source enthusiasts
 - 🥅 2024 Goals: Learn Reactjs and Nextjs
