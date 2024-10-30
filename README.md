@@ -121,7 +121,9 @@
 </div>
 <hr/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hemraj-7&theme=merko" alt="Hem Raj's github activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hemraj-7&theme=merko" alt="'s github activity graph"/>
+<hr/>
+<br/>
 
 <hr>
 
