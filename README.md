@@ -111,7 +111,7 @@
 <!-- [![An image of @hemraj_7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hemraj_7)](https://holopin.io/@hemraj_7) -->
 <br/><br/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2>⚡ Stats ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com?user=Hemraj-7&theme=react&border_radius=10" alt="streak stats"/>
