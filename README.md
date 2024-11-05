@@ -100,6 +100,7 @@
   <img src="./assets/3.png" width="120px" height="120px" />
   <img src="./assets/4.png" width="112px" height="112px" />
   <img src="./assets/5.png" width="120px" height="120px" />
+  <img src="./assets/6.png" width="120px" height="120px" />
   <!-- <img src="./assets/66.png" width="120px" height="120px" />
   <img src="./assets/77.png" width="120px" height="120px" />
   <img src="./assets/88.png" width="120px" height="120px" /> -->
