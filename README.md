@@ -94,6 +94,7 @@
 ### GSSoC'24 Badges
 
 <div style='display:flex; align-items:center; gap: 5px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="./assets/Hack-Web3Conf.png" width="115px" height="115px" />
 <img src="./assets/postman.png" width="115px" height="115px" />
   <img src="./assets/1.png" width="120px" height="120px" />
   <img src="./assets/2.png" width="120px" height="120px" />
@@ -101,6 +102,9 @@
   <img src="./assets/4.png" width="112px" height="112px" />
   <img src="./assets/5.png" width="120px" height="120px" />
   <img src="./assets/6.png" width="120px" height="120px" />
+  <img src="./assets/Git Explorer.png" width="120px" height="120px" />
+  <img src="./assets/Pull Expert.png" width="120px" height="120px" />
+  <img src="./assets/Code Luminary.png" width="120px" height="120px" />
   <!-- <img src="./assets/66.png" width="120px" height="120px" />
   <img src="./assets/77.png" width="120px" height="120px" />
   <img src="./assets/88.png" width="120px" height="120px" /> -->
