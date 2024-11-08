@@ -104,10 +104,6 @@
   <img src="./assets/6.png" width="120px" height="120px" />
   <img src="./assets/Git Explorer.png" width="120px" height="120px" />
   <img src="./assets/Pull Expert.png" width="120px" height="120px" />
-  <img src="./assets/Code Luminary.png" width="120px" height="120px" />
-  <!-- <img src="./assets/66.png" width="120px" height="120px" />
-  <img src="./assets/77.png" width="120px" height="120px" />
-  <img src="./assets/88.png" width="120px" height="120px" /> -->
 </div>
 <br>
 
