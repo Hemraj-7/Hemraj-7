@@ -19,7 +19,7 @@
 - 👯 I’m looking to collaborate with open source enthusiasts
 - 🥅 2024 Goals: Learn Reactjs and Nextjs
 
-<br>
+<br><br>
 
 ### 🌐 Socials:
 
