@@ -20,6 +20,7 @@
 - 🥅 2024 Goals: Learn Reactjs and Nextjs
 
 <br><br>
+
 ### 🌐 Socials:
 
 <div align="center">
