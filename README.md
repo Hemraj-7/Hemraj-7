@@ -39,7 +39,7 @@
 <table>
 	<tr>
 		<td><strong>Programming Languages</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=c,cpp,java,js&theme=dark"></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=java,js&theme=dark"></td>
 	</tr>
 	<tr>
 		<td><strong>Database Technologies</strong></td>
