@@ -113,6 +113,10 @@
 <!-- [![An image of @hemraj_7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hemraj_7)](https://holopin.io/@hemraj_7) -->
 <br/><br/>
 
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Hemu21&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
+
 <h2>⚡ Stats ⚡</h2>
 <br>
 <div align=center>
