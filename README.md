@@ -134,6 +134,6 @@
 </p>
 
 <hr>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=Asymtode712&color=red" alt="Total Github views" />
+<p align="left"><img src="https://komarev.com/ghpvc/?username=Hemraj-7&color=red" alt="Total Github views" />
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
