@@ -18,7 +18,7 @@
 - 🎓 I'm a Student at Osmania University
 - 🌱 I’m currently learning next.js
 - 👯 I’m looking to collaborate with open source enthusiasts
-- 🥅 2024 Goals: Learn Reactjs and Nextjs
+- 🥅 2025 Goals: Learn Reactjs and Nextjs
 
 <br><br>
 
